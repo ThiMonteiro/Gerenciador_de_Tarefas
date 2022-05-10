@@ -9,3 +9,5 @@ Gerenciador de Tarefas em Python.
 - Modularização;
 - Estrtura de repetição;
 
+
+Obs: programa está na Branch Master.
